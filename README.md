@@ -45,23 +45,3 @@ A full-stack real-time stock tracker built with **React**, **Tailwind CSS**, and
 
 ---
 
-## 📁 Folder Structure
-/src
-│
-├── /components
-│ ├── Header.jsx
-│ ├── SearchBar.jsx
-│ ├── StockList.jsx
-│ └── Watchlist.jsx
-│
-├── /pages
-│ ├── Home.jsx
-│ ├── Watchlist.jsx
-│ └── Login.jsx
-│
-├── /services
-│ └── firebase.js
-│
-├── App.jsx
-├── index.js
-└── main.css (Tailwind base)

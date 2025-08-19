@@ -1,4 +1,4 @@
-# 📊 Real-Time Stock Tracker App
+# 📊 Real-Time Stock Tracker SAAS App
 
 A full-stack real-time stock tracker built with **React**, **Tailwind CSS**, and **Firebase**. This app allows users to sign in, search for stocks, view real-time (mock) stock data, and manage a watchlist.
 
